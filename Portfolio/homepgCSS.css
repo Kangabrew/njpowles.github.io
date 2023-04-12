@@ -1,0 +1,31 @@
+body { background-color: #5B7B08;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: xx-large;
+	min-width:100%;
+	min-height: 100%;
+	
+	}
+aside {
+	width:" ";
+    border: thick groove #FFF500;
+    background-color: #676F70;
+}
+body main article {
+	width:" ";
+    border: thick double #FFF500;
+    background-color: #676F70;
+}
+	footer {
+	width:"";
+    border: thin inset #FFFD00;
+    background-color: #1CAAC7;
+}
+main {
+	width:"";
+	border: thick double #FFFD00;
+	background-color: #676F70
+}
+table {
+	width: 100%;
+	border-width: thin
+}
